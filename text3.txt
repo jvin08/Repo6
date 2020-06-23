@@ -1,0 +1,13 @@
+ Volume in drive C is OS
+ Volume Serial Number is 6656-C308
+
+ Directory of C:\Users\Ivan\projects\MyProject4
+
+06/22/2020  08:46 PM    <DIR>          .
+06/22/2020  08:46 PM    <DIR>          ..
+06/20/2020  04:42 PM                 0 index.html
+06/20/2020  04:41 PM                 0 text1.txt
+06/20/2020  05:41 PM                 0 text2.txt
+06/22/2020  08:46 PM                 0 text3.txt
+               4 File(s)              0 bytes
+               2 Dir(s)  28,075,163,648 bytes free
